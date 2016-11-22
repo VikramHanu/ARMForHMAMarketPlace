@@ -34,8 +34,6 @@
     <Content Include="Scripts\Deploy-AzureResourceGroup.ps1" />
     <Content Include="Templates\azuredeploy.json" />
     <Content Include="Templates\azuredeploy.parameters.json" />
-    <Content Include="Templates\NestedDeployment.json" />
-    <Content Include="Templates\NestedDeployment.parameters.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
