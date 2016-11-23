@@ -26,6 +26,9 @@
   <!-- vertag<:>end -->
   <ItemGroup>
     <Folder Include="Scripts\" />
+    <Folder Include="Templates\Amit\" />
+    <Folder Include="Templates\Vikram\" />
+    <Folder Include="Templates\Rakesh\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Deployment.targets">
@@ -37,6 +40,7 @@
     <None Include="Templates\azuredeploy.json" />
     <None Include="Templates\azuredeploy.parameters.json" />
     <None Include="Templates\Ishwar\json.json" />
+    <None Include="Templates\Sanjeev\test.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
