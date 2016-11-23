@@ -36,6 +36,7 @@
     <Content Include="Templates\azuredeploy.parameters1.json" />
     <None Include="Templates\azuredeploy.json" />
     <None Include="Templates\azuredeploy.parameters.json" />
+    <None Include="Templates\Ishwar\json.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
